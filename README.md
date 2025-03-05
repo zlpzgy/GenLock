@@ -1,6 +1,6 @@
 # GenLock
 #### Video Demo:  <URL HERE>
-#### Description: GenLock is a Python-based password generator designed to create strong, random passwords with customizable options. Users can specify password length, include/exclude special characters, and generate multiple passwords simultaneously. Built for security and convenience, GenLock ensures that every password is unpredictable and robust.
+#### Description: GenLock creates strong, random passwords in seconds. Customize length, special characters, and bulk generation for ultimate security. Simple, fast, and reliable—protect your accounts with GenLock!
 # GenLock: Your Go-To Password Generator
 
 
