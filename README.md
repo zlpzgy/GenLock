@@ -34,12 +34,12 @@ Ever struggled to come up with a strong password? GenLock is here to make your l
 ### How to Use GenLock
 1. Make sure you have Python installed.
 2. Open your terminal and run:
-   sh
+   
    python project.py
    
-3. Follow the prompts to generate your password.
-4. Want to save it? No problem! Just choose the option to store it.
-5. Check passwords.txt anytime to retrieve your saved passwords.
+4. Follow the prompts to generate your password.
+5. Want to save it? No problem! Just choose the option to store it.
+6. Check passwords.txt anytime to retrieve your saved passwords.
 
 ### What’s Next?
 We’re planning to:
